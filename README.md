@@ -17,7 +17,9 @@ MongoDB
 
 • Developed a Workout Management System, a full-stack web application using MongoDB, Express.js, React.js,
 and Node.js and JWT for secure user authentication.
+<br>
 • The website allows each user to create its specific workout routine and also edit and delete them.
+<br>
 • Utilized React.js for frontend development, Node.js with Express.js for backend development, and MongoDB
 for database management.
 
