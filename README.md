@@ -1,7 +1,5 @@
 # Workout Buddy
 
-# Screenshots
-
 ![Workout1](https://github.com/SwapnilNath02/Workout_Buddy/assets/97836004/2c6dc064-4b17-46ca-adc1-7e4ff2638f95)
 ![Workout2](https://github.com/SwapnilNath02/Workout_Buddy/assets/97836004/c7021195-d128-490c-a38f-241e7ff3e3ba)
 ![Workout3](https://github.com/SwapnilNath02/Workout_Buddy/assets/97836004/a6da53af-12f7-4403-aa31-aaa81c5a6361)
